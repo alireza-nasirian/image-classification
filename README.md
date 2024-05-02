@@ -14,8 +14,6 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6
 
 - `mlp_classification.ipynb`: Jupyter Notebook containing the implementation of the Multi-layer Perceptron for image classification.
 - `cnn_classification.ipynb`: Jupyter Notebook containing the implementation of the Convolutional Neural Network for image classification.
-- `data/`: Directory containing the CIFAR-10 dataset.
-- `requirements.txt`: File listing the required Python packages to run the project.
 
 ## Usage
 
